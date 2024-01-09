@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367818138912",
+    "project_id": "tubesconsul",
+    "storage_bucket": "tubesconsul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367818138912:android:418ab2ecda860e10aee345",
+        "android_client_info": {
+          "package_name": "com.example.consultant_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaRfacowwvTwyUSvqZBAhuycT6bK3UC4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
